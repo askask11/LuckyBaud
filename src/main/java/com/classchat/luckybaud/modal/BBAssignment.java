@@ -5,6 +5,7 @@
  */
 package com.classchat.luckybaud.modal;
 
+import cn.hutool.core.util.URLUtil;
 import java.time.LocalDateTime;
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
@@ -41,6 +42,10 @@ public class BBAssignment
         return assignmentName;
     }
 
+    public String getAssignmentNameEncoded()
+    {
+        return URLUtil.encode(getAssignmentName());
+    }
     public void setAssignmentName(String assignmentName)
     {
         this.assignmentName = assignmentName;

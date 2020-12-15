@@ -13,7 +13,7 @@
         <title>LuckyBaud Grade</title>
     </head>
     <body style='height: 100%;'>
-        <iframe style="width: 100%; height: 100%;" frameborder="0" src="https://anime.luckycanvas.cn/LuckyMain.html?${assignment.getAssignmentName()}∧${assignment.getDateCommonFormat()}∧${assignment.getGradeEarned()}∧${assignment.getMaxGrade()}∧1000∧1000∧0∧idk|∨">
+        <iframe style="width: 100%; height: 100%;" frameborder="0" src="https://anime.luckycanvas.cn/LuckyMain.html?${assignment.getAssignmentNameEncoded()}∧${assignment.getDateCommonFormat()}∧${assignment.getGradeEarned()}∧${assignment.getMaxGrade()}∧1000∧1000∧0∧idk|∨">
             Your browser does not support iFrame!
         </iframe>
     </body>
