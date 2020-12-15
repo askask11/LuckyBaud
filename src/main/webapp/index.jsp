@@ -131,7 +131,7 @@
                             <div class="modal-body">
                                 This app is made & managed by Jianqing Gao.<br><!-- support -->
                                 Contact:<a href="mailto:support@jianqinggao.com">support@jianqinggao.com</a><br><!-- IPN -->
-                                None of your cridentials will be stored on server. You may view the source code on github.com!
+                                None of your cridentials will be stored on server. You may view the source code on <a href="https://github.com/askask11/LuckyBaud">github.com!</a>
                             </div>
                             <div class="modal-footer">
                                 <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
