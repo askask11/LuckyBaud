@@ -1,0 +1,8 @@
+<%-- any content can be specified here e.g.: --%>
+<style>
+    .lds-roller div:after
+    {
+        background-color: dodgerblue !important;
+    }
+</style>
+<div class="lds-roller"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>

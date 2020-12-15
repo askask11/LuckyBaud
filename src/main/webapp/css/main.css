@@ -1,0 +1,29 @@
+/*
+Author: jianqing
+Date: Dec 14, 2020
+Description: This document is created for
+*/
+/* 
+    Created on : Dec 14, 2020, 2:36:02 PM
+    Author     : jianqing
+*/
+@import url('https://fonts.googleapis.com/css?family=Cabin+Sketch|Overlock&display=swap');
+
+header, section, footer, aside, nav, article, figure, figcaption { 
+    display: block;}
+
+body
+{
+    background-image: url("https://xeduocdn.sirv.com/Images/aesthetic-anime-01.jpg");
+    font-family: 'Overlock', cursive;
+}
+
+h1, h4
+{
+    font-family: 'Cabin Sketch', cursive;
+}
+
+.transparent
+{
+    background-color: rgba(255,255,255,0);
+}
