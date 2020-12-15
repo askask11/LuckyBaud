@@ -7,6 +7,7 @@ If you are a Blackbaud user, you can visit <a href="https://luckycanvas.vip">htt
 ## Privacy & Intellectual Property Notice
 Your information will not be stored on this server for LuckyBaud. To use LuckyBaud, you must agree to any Terms defined by MySchoolApp.
 Images of LuckyBaud come from GoogleImage. Fonts used are Overlock (normal texts) and Cabin Sketch (for titles) from google fonts.
+Music created by BongoCat(A), David Osborne(B), International Piano Academy(C). Please contact me for any copyright issues.
 
 ## Author
 Jianqing Gao, contact: support@jianqinggao.com
